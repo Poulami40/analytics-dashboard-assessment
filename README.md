@@ -23,6 +23,7 @@ The Electric Vehicle Population dataset is available in the [Electric Vehicle Po
 
 - Deploy your frontend dashboard to a hosting platform of your choice.
 - Make sure the dashboard is publicly accessible.
+- Link to deployed website- https://ev-assignment-rouge.vercel.app/
 
 ## Evaluation
 
